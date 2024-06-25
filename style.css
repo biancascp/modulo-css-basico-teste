@@ -1,0 +1,24 @@
+.tabela{
+    
+    color: white;
+    
+}
+
+.cabeçalho-tabela-moda {
+    
+    background-color: #BB86FC;
+    
+}
+
+.cabeçalho-tabela-casa {
+
+    background-color: #00c4b4;    
+       
+}
+
+.valores-camiseta td, .valores-tenis td, .valores-sofa td, .valores-tv td{
+   
+    background-color: #424250;
+    padding: 6px;   
+}
+
